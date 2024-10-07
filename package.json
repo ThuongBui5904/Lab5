@@ -1,0 +1,28 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "lab 5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThuongBui5904/Lab5.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "thuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThuongBui5904/Lab5/issues"
+  },
+  "homepage": "https://github.com/ThuongBui5904/Lab5#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
